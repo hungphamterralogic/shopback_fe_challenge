@@ -16,7 +16,7 @@ import configureStore from './store';
 //   ReactDOM.unmountComponentAtNode(div);
 // });
 
-it('renders correctly', () => {
+test('renders correctly', () => {
   const tree = renderer
     .create(
       <Provider store={configureStore()}>
