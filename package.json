@@ -2,11 +2,29 @@
   "name": "shopback_fe_challenge",
   "version": "0.1.0",
   "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint src"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
   "dependencies": {
     "@babel/preset-env": "^7.4.1",
     "@babel/preset-react": "^7.0.0",
     "axios": "^0.18.0",
     "classnames": "^2.2.6",
+    "lodash.clonedeep": "^4.5.0",
+    "lodash.set": "^4.3.2",
     "prop-types": "^15.7.2",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
@@ -28,22 +46,7 @@
     "eslint-plugin-react": "^7.12.4",
     "eslint-plugin-react-hooks": "^1.0.2",
     "prettier": "^1.16.4",
-    "react-test-renderer": "^16.8.4"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "lint": "eslint src",
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+    "react-test-renderer": "^16.8.4",
+    "redux-mock-store": "^1.5.3"
+  }
 }
