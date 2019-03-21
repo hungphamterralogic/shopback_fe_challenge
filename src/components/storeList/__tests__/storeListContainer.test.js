@@ -1,5 +1,5 @@
 import React from 'react';
-import { genInitialMockStore, renderWithStore } from '../../../test/reduxComponentTestHelpers';
+import { genInitialMockStore, renderWithStore } from 'test/reduxComponentTestHelpers';
 
 import StoreListContainer from '../storeListContainer';
 
@@ -12,6 +12,7 @@ describe('StoreListContainer', () => {
     const renderer = renderWithStore(<StoreListContainer />, mockStore);
     expect(renderer.toJSON()).toMatchSnapshot();
   });
+
   test('populated redux store', () => {
     const mockStore = genInitialMockStore(populatedMockReduxStore);
     const renderer = renderWithStore(<StoreListContainer />, mockStore);
