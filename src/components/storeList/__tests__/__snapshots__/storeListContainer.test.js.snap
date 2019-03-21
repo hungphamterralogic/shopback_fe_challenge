@@ -1,0 +1,198 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoreListContainer not yet populated redux store 1`] = `
+<div
+  className="StoreList-storeList-0-1-1"
+>
+  <div
+    className="ShowMore-showMoreDesktop-0-1-2"
+  >
+    <div
+      className="ShowMore-textBoxDesktop-0-1-4"
+    >
+      view all popular stores
+    </div>
+  </div>
+</div>
+`;
+
+exports[`StoreListContainer populated redux store 1`] = `
+<div
+  className="StoreList-storeList-0-1-1"
+>
+  <div
+    className="StoreItem-storeItem-0-1-6"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="StoreItem-icon-0-1-8"
+      src="https://cloud.shopback.com/t_sd_250_pad,f_auto,fl_lossy,q_auto/sg-store/1200/cotton-on-coupon-.png"
+    />
+    <span
+      className="StoreItem-name-0-1-9"
+    >
+      11.0% Cashback
+    </span>
+  </div>
+  <div
+    className="StoreItem-storeItem-0-1-6"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="StoreItem-icon-0-1-8"
+      src="https://static.shopback.com/uploads/ci/143830/logo-qoo10.gif"
+    />
+    <span
+      className="StoreItem-name-0-1-9"
+    >
+      Up to 2.0% Cashback
+    </span>
+  </div>
+  <div
+    className="StoreItem-storeItem-0-1-6"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="StoreItem-icon-0-1-8"
+      src="https://cloud.shopback.com/t_sd_250_pad,f_auto,fl_lossy,q_auto/sg-store/1816/shopee.png"
+    />
+    <span
+      className="StoreItem-name-0-1-9"
+    >
+      Up to 8.0% Cashback via ShopBack App
+    </span>
+  </div>
+  <div
+    className="StoreItem-storeItem-0-1-6"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="StoreItem-icon-0-1-8"
+      src="https://cloud.shopback.com/t_sd_250_pad,f_auto,fl_lossy,q_auto/sg-store/1012/1012_logo_2ef6161b.png"
+    />
+    <span
+      className="StoreItem-name-0-1-9"
+    >
+      Up to 10.0% Cash Rewards
+    </span>
+  </div>
+  <div
+    className="StoreItem-storeItem-0-1-6"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="StoreItem-icon-0-1-8"
+      src="https://cloud.shopback.com/t_sd_250_pad,f_auto,fl_lossy,q_auto/sg-store/93/zalora-coupon-1.png"
+    />
+    <span
+      className="StoreItem-name-0-1-9"
+    >
+      2.0% Cashback
+    </span>
+  </div>
+  <div
+    className="StoreItem-storeItem-0-1-6"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="StoreItem-icon-0-1-8"
+      src="https://cloud.shopback.com/t_sd_250_pad,f_auto,fl_lossy,q_auto/sg-store/388/388_logo_92b50f13.png"
+    />
+    <span
+      className="StoreItem-name-0-1-9"
+    >
+      4.0% Cashback
+    </span>
+  </div>
+  <div
+    className="StoreItem-storeItem-0-1-6"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="StoreItem-icon-0-1-8"
+      src="https://cloud.shopback.com/t_sd_250_pad,f_auto,fl_lossy,q_auto/sg-store/901/charlesandkeith-coupon.png"
+    />
+    <span
+      className="StoreItem-name-0-1-9"
+    >
+      Up to 4.5% Cashback
+    </span>
+  </div>
+  <div
+    className="StoreItem-storeItem-0-1-6"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="StoreItem-icon-0-1-8"
+      src="https://cloud.shopback.com/t_sd_250_pad,f_auto,fl_lossy,q_auto/sg-store/2060/2060_logo_d3f3176a.png"
+    />
+    <span
+      className="StoreItem-name-0-1-9"
+    >
+      Up to 3.0% Cashback
+    </span>
+  </div>
+  <div
+    className="StoreItem-storeItem-0-1-6"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="StoreItem-icon-0-1-8"
+      src="https://cloud.shopback.com/t_sd_250_pad,f_auto,fl_lossy,q_auto/sg-store/1675/nap.png"
+    />
+    <span
+      className="StoreItem-name-0-1-9"
+    >
+      Up to 7.0% Cashback
+    </span>
+  </div>
+  <div
+    className="StoreItem-storeItem-0-1-6"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="StoreItem-icon-0-1-8"
+      src="https://cloud.shopback.com/t_sd_250_pad,f_auto,fl_lossy,q_auto/sg-store/534/534_logo_268d190d.png"
+    />
+    <span
+      className="StoreItem-name-0-1-9"
+    >
+      5.0% Cashback
+    </span>
+  </div>
+  <div
+    className="StoreItem-storeItem-0-1-6"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="StoreItem-icon-0-1-8"
+      src="https://static.shopback.com/uploads/merchant_logo/1078/nikelogo.png"
+    />
+    <span
+      className="StoreItem-name-0-1-9"
+    >
+      15.0% Cashback
+    </span>
+  </div>
+  <div
+    className="ShowMore-showMoreDesktop-0-1-2"
+  >
+    <div
+      className="ShowMore-textBoxDesktop-0-1-4"
+    >
+      view all popular stores
+    </div>
+  </div>
+</div>
+`;
