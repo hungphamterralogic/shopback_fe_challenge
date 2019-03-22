@@ -1,5 +1,7 @@
 import React from 'react';
+
 import { genInitialMockStore, renderWithStore } from 'test/reduxComponentTestHelpers';
+
 import initialMockReduxStore from 'test/mockReduxStore/initialState.json';
 import dataPopulatedMockReduxStore from 'test/mockReduxStore/dataPopulatedState.json';
 

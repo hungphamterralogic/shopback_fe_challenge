@@ -1,10 +1,11 @@
 import React from 'react';
-import { genInitialMockStore, renderWithStore } from '../../../test/reduxComponentTestHelpers';
+
+import { genInitialMockStore, renderWithStore } from 'test/reduxComponentTestHelpers';
+
+import * as storesAction from 'actions/storesAction';
+import localStorage from 'utils/localStorage';
 
 import StoreItemContainer from '../storeItemContainer';
-
-import * as storesAction from '../../../actions/storesAction';
-import localStorage from '../../../utils/localStorage';
 
 describe('StoreItemContainer', () => {
   const item = {

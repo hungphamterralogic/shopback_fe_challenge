@@ -1,7 +1,9 @@
 import React from 'react';
 import ReactTestRenderer from 'react-test-renderer';
+
+import detectDevice from 'utils/detectDevice';
+
 import ShowMore from '../index';
-import detectDevice from '../../../utils/detectDevice';
 
 describe('component/showMore', () => {
   test('renders correctly', () => {

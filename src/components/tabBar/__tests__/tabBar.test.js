@@ -1,5 +1,5 @@
 import React from 'react';
-import { genInitialMockStore, renderWithStore } from '../../../test/reduxComponentTestHelpers';
+import { genInitialMockStore, renderWithStore } from 'test/reduxComponentTestHelpers';
 
 import TabBar from '../tabBar';
 

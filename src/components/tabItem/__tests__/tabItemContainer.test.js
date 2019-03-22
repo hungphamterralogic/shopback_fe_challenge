@@ -1,12 +1,12 @@
 import React from 'react';
-import { genInitialMockStore, renderWithStore } from '../../../test/reduxComponentTestHelpers';
+
+import { genInitialMockStore, renderWithStore } from 'test/reduxComponentTestHelpers';
+
+import detectDevice from 'utils/detectDevice';
+import * as categoriesAction from 'actions/categoriesAction';
+import localStorage from 'utils/localStorage';
 
 import TabItemContainer from '../tabItemContainer';
-
-import detectDevice from '../../../utils/detectDevice';
-
-import * as categoriesAction from '../../../actions/categoriesAction';
-import localStorage from '../../../utils/localStorage';
 
 describe('TabItemContainer', () => {
   const props = {

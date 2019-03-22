@@ -1,7 +1,10 @@
 import React from 'react';
+
 import ReactTestRenderer from 'react-test-renderer';
+
+import detectDevice from 'utils/detectDevice';
+
 import StoreItem from '../storeItem';
-import detectDevice from '../../../utils/detectDevice';
 
 const id = 'idTest';
 const item = {

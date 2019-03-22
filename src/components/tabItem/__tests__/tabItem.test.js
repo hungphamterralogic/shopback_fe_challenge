@@ -1,9 +1,10 @@
 import React from 'react';
+
 import ReactTestRenderer from 'react-test-renderer';
 
-import TabItem from '../tabItem';
+import detectDevice from 'utils/detectDevice';
 
-import detectDevice from '../../../utils/detectDevice';
+import TabItem from '../tabItem';
 
 describe('TabItem', () => {
   const props = {

@@ -1,9 +1,10 @@
 import React from 'react';
-import { genInitialMockStore, renderWithStore } from '../../../test/reduxComponentTestHelpers';
+
+import { genInitialMockStore, renderWithStore } from 'test/reduxComponentTestHelpers';
+
+import detectDevice from 'utils/detectDevice';
 
 import StoreList from '../storeList';
-
-import detectDevice from '../../../utils/detectDevice';
 
 const stores = [
   { id: 'id01', logoUrl: 'logoUrl01', displayText: 'displayText01' },
