@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TabBar display properly 1`] = `
+<div
+  className="TabBar-tabBar-0-1-1"
+>
+  <div
+    className="TabItem-tabItem-0-1-4 TabItem-tabItemDestop-0-1-5"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="TabItem-icon-0-1-8"
+      src="iconUrl01"
+    />
+    <span
+      className="TabItem-name-0-1-9"
+    >
+      name01
+    </span>
+  </div>
+  <div
+    className="TabItem-tabItem-0-1-4 TabItem-tabItemDestop-0-1-5"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="TabItem-icon-0-1-8"
+      src="iconUrl02"
+    />
+    <span
+      className="TabItem-name-0-1-9"
+    >
+      name02
+    </span>
+  </div>
+  <div
+    className="TabItem-tabItem-0-1-4 TabItem-tabItemDestop-0-1-5"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="TabItem-icon-0-1-8"
+      src="iconUrl03"
+    />
+    <span
+      className="TabItem-name-0-1-9"
+    >
+      name03
+    </span>
+  </div>
+  <div
+    className="TabItem-tabItem-0-1-4 TabItem-tabItemDestop-0-1-5"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="TabItem-icon-0-1-8"
+      src="iconUrl04"
+    />
+    <span
+      className="TabItem-name-0-1-9"
+    >
+      name04
+    </span>
+  </div>
+</div>
+`;

@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TabBarContainer not yet populated redux store 1`] = `
+<div
+  className="TabBar-tabBar-0-1-1"
+/>
+`;
+
+exports[`TabBarContainer populated redux store 1`] = `
+<div
+  className="TabBar-tabBar-0-1-1"
+>
+  <div
+    className="TabItem-tabItem-0-1-4 TabItem-tabItemDestop-0-1-5 TabItem-selected-0-1-7"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="TabItem-icon-0-1-8"
+      src="https://cloud.shopback.com/raw/upload/static/images/icon/core/tshirt.svg"
+    />
+    <span
+      className="TabItem-name-0-1-9"
+    >
+      Fashion
+    </span>
+  </div>
+  <div
+    className="TabItem-tabItem-0-1-4 TabItem-tabItemDestop-0-1-5"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="TabItem-icon-0-1-8"
+      src="https://cloud.shopback.com/raw/upload/static/images/icon/core/fire.svg"
+    />
+    <span
+      className="TabItem-name-0-1-9"
+    >
+      Popular
+    </span>
+  </div>
+  <div
+    className="TabItem-tabItem-0-1-4 TabItem-tabItemDestop-0-1-5"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="TabItem-icon-0-1-8"
+      src="https://cloud.shopback.com/raw/upload/static/images/icon/core/burger.svg"
+    />
+    <span
+      className="TabItem-name-0-1-9"
+    >
+      Dining
+    </span>
+  </div>
+  <div
+    className="TabItem-tabItem-0-1-4 TabItem-tabItemDestop-0-1-5"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="TabItem-icon-0-1-8"
+      src="https://cloud.shopback.com/raw/upload/static/images/icon/core/plane.svg"
+    />
+    <span
+      className="TabItem-name-0-1-9"
+    >
+      Travel
+    </span>
+  </div>
+  <div
+    className="TabItem-tabItem-0-1-4 TabItem-tabItemDestop-0-1-5"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="TabItem-icon-0-1-8"
+      src="https://cloud.shopback.com/raw/upload/static/images/icon/core/laptop.svg"
+    />
+    <span
+      className="TabItem-name-0-1-9"
+    >
+      Electronics
+    </span>
+  </div>
+  <div
+    className="TabItem-tabItem-0-1-4 TabItem-tabItemDestop-0-1-5"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="TabItem-icon-0-1-8"
+      src="https://cloud.shopback.com/raw/upload/static/images/icon/core/lettuce.svg"
+    />
+    <span
+      className="TabItem-name-0-1-9"
+    >
+      Groceries
+    </span>
+  </div>
+  <div
+    className="TabItem-tabItem-0-1-4 TabItem-tabItemDestop-0-1-5"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="TabItem-icon-0-1-8"
+      src="https://cloud.shopback.com/raw/upload/static/images/icon/core/lipstick.svg"
+    />
+    <span
+      className="TabItem-name-0-1-9"
+    >
+      Health & Beauty
+    </span>
+  </div>
+  <div
+    className="TabItem-tabItem-0-1-4 TabItem-tabItemDestop-0-1-5"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="TabItem-icon-0-1-8"
+      src="https://cloud.shopback.com/raw/upload/static/images/icon/core/couch.svg"
+    />
+    <span
+      className="TabItem-name-0-1-9"
+    >
+      Home & Living
+    </span>
+  </div>
+  <div
+    className="TabItem-tabItem-0-1-4 TabItem-tabItemDestop-0-1-5"
+    onClick={[Function]}
+  >
+    <img
+      alt="icon"
+      className="TabItem-icon-0-1-8"
+      src="https://cloud.shopback.com/raw/upload/static/images/icon/core/basketball.svg"
+    />
+    <span
+      className="TabItem-name-0-1-9"
+    >
+      Sports & Outdoors
+    </span>
+  </div>
+</div>
+`;
