@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TabItemContainer display properly is not selected is mobile 1`] = `
+<div
+  className="TabItem-tabItem-0-1-1 TabItem-tabItemMobile-0-1-3"
+  onClick={[Function]}
+>
+  <img
+    alt="icon"
+    className="TabItem-icon-0-1-5"
+    src="iconUrlTest"
+  />
+  <span
+    className="TabItem-name-0-1-6"
+  >
+    nameTest
+  </span>
+</div>
+`;
+
+exports[`TabItemContainer display properly is not selected is not mobile 1`] = `
+<div
+  className="TabItem-tabItem-0-1-1 TabItem-tabItemDestop-0-1-2"
+  onClick={[Function]}
+>
+  <img
+    alt="icon"
+    className="TabItem-icon-0-1-5"
+    src="iconUrlTest"
+  />
+  <span
+    className="TabItem-name-0-1-6"
+  >
+    nameTest
+  </span>
+</div>
+`;
+
+exports[`TabItemContainer display properly is selected is mobile 1`] = `
+<div
+  className="TabItem-tabItem-0-1-1 TabItem-tabItemMobile-0-1-3 TabItem-selected-0-1-4"
+  onClick={[Function]}
+>
+  <img
+    alt="icon"
+    className="TabItem-icon-0-1-5"
+    src="iconUrlTest"
+  />
+  <span
+    className="TabItem-name-0-1-6"
+  >
+    nameTest
+  </span>
+</div>
+`;
+
+exports[`TabItemContainer display properly is selected is not mobile 1`] = `
+<div
+  className="TabItem-tabItem-0-1-1 TabItem-tabItemDestop-0-1-2 TabItem-selected-0-1-4"
+  onClick={[Function]}
+>
+  <img
+    alt="icon"
+    className="TabItem-icon-0-1-5"
+    src="iconUrlTest"
+  />
+  <span
+    className="TabItem-name-0-1-6"
+  >
+    nameTest
+  </span>
+</div>
+`;
